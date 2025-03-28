@@ -1,1 +1,0 @@
-need to install: PS D:\backend_devp\Lecture_16_Project_1> npm i shortid

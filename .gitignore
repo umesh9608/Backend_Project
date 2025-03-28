@@ -1,0 +1,9 @@
+# Node.js dependencies (should not be uploaded)
+node_modules/
+
+# Environment variables (contains sensitive data)
+.env
+
+# Logs (optional, helps debugging)
+logs/
+*.log
